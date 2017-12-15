@@ -4,7 +4,6 @@ import shutil
 import sys
 import subprocess
 import time
-import shutil
 
 curdir,pyfile=os.path.split(sys.argv[0])
 
